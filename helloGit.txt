@@ -9,3 +9,5 @@ Git has a mutable index called stage.
 这是在master分支上添加的内容
 
 这是在feature1分支上添加的内容
+
+dev分支又增加内容了
